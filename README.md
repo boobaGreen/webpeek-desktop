@@ -4,13 +4,13 @@ This repository hosts the official installers for the Awebif desktop app.
 
 ## Download
 
-The latest builds are stored directly in this repository under versioned filenames. Grab what you need:
+The latest builds are published as GitHub Release assets. Grab what you need:
 
-| Platform      | File                                                   | Version | SHA256                                                             |
-| ------------- | ------------------------------------------------------ | ------- | ------------------------------------------------------------------ |
-| Windows (x64) | [`WebPeek-Setup-0.1.0.exe`](./WebPeek-Setup-0.1.0.exe) | 0.1.0   | `6386EA9700E5B0039D757B2EE0BFC5DD4905B758A56E84DAED863AB27CDB1207` |
+| Platform      | File                                                                                                                        | Version | SHA256                                                             |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------ |
+| Windows (x64) | [`WebPeek-Setup-0.1.0.exe`](https://github.com/boobaGreen/webpeek-desktop/releases/download/v0.1.0/WebPeek-Setup-0.1.0.exe) | 0.1.0   | `6386EA9700E5B0039D757B2EE0BFC5DD4905B758A56E84DAED863AB27CDB1207` |
 
-> Tip: right-click the file link above and choose **Save link as…** if the download does not start automatically.
+> Tip: right-click the link above and choose **Save link as…** if the download does not start automatically.
 
 macOS `.dmg` and Linux `.AppImage` / `.deb` images will be added here as soon as they are built. For now, only the Windows installer is available.
 
