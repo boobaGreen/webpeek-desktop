@@ -4,23 +4,25 @@ This repository hosts the official installers for the Awebif desktop app.
 
 ## Download
 
-Head over to the [Releases](https://github.com/boobaGreen/awebif-desktop/releases) page and grab the latest installer for your platform (Windows, macOS, Linux).
+The latest builds are stored directly in this repository under versioned filenames. Grab what you need:
 
-- **Windows**: `.exe` setup  
-- **macOS**: `.dmg` disk image  
-- **Linux**: `.AppImage` or `.deb`
+| Platform      | File                                                   | Version | SHA256                                                             |
+| ------------- | ------------------------------------------------------ | ------- | ------------------------------------------------------------------ |
+| Windows (x64) | [`WebPeek-Setup-0.1.0.exe`](./WebPeek-Setup-0.1.0.exe) | 0.1.0   | `6386EA9700E5B0039D757B2EE0BFC5DD4905B758A56E84DAED863AB27CDB1207` |
 
-Each release includes checksums so you can verify integrity.
+> Tip: right-click the file link above and choose **Save link as…** if the download does not start automatically.
+
+macOS `.dmg` and Linux `.AppImage` / `.deb` images will be added here as soon as they are built. For now, only the Windows installer is available.
 
 ## What’s inside
 
-- Native GIF ↔ WEBP conversions powered by the high-performance engine  
+- Native GIF ↔ WEBP conversions powered by the high-performance engine
 - Batch automation, custom naming patterns, transparency handling, and all PRO features showcased in the web demo
 
 ## Getting Started
 
-1. Download the installer for your OS.  
-2. Run it and follow the on-screen instructions.  
+1. Download the installer for your OS.
+2. Run it and follow the on-screen instructions.
 3. Launch Awebif Desktop and start converting.
 
 Need help or want to report an issue? Open a ticket in this repo or reach us at support@awebif.com.
