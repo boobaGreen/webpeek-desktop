@@ -8,7 +8,7 @@ The latest builds are published as [GitHub Release assets](https://github.com/bo
 
 | Platform      | File                                                                                                                     | Version | SHA256                                                             |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------ | ------- | ------------------------------------------------------------------ |
-| Windows (x64) | [`AWebIF.Setup.0.1.0.exe`](https://github.com/boobaGreen/webpeek-desktop/releases/download/0.1.0/AWebIF.Setup.0.1.0.exe) | 0.1.0   | `F95CA8370321B817CE0C1EE8DD497659D89DCD3D72BD917EAA220868B6F80819` |
+| Windows (x64) | [`AWebIF.Setup.0.1.0.exe`](https://github.com/boobaGreen/webpeek-desktop/releases/download/0.1.0/AWebIF.Setup.0.1.0.exe) | 0.1.0   | `EFEF11023DEB33E33948DD4E741BF03CFC88E39DFA4A1D955D03E3215A0A7293` |
 
 > Tip: right-click the link above and choose **Save link as…** if the download does not start automatically.
 >
