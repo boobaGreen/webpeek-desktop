@@ -1,22 +1,22 @@
-# Awebif Desktop Downloads
+# WebPeek Desktop Downloads
 
-This repository hosts the official installers for the Awebif desktop app.
+This repository hosts the official installers for the WebPeek desktop app.
 
 ## Download
 
 The latest builds are published as [GitHub Release assets](https://github.com/boobaGreen/webpeek-desktop/releases). Grab what you need:
 
-| Platform      | File                                                                                                                     | Version | SHA256                                                             |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------ | ------- | ------------------------------------------------------------------ |
-| Windows (x64) | [`AWebIF.Setup.0.1.0.exe`](https://github.com/boobaGreen/webpeek-desktop/releases/download/0.1.0/AWebIF.Setup.0.1.0.exe) | 0.1.0   | `11856C1705081870AA3CAC20AE1CE8D776B6E22EC831A5B1DCC0284504882C41` |
+| Platform      | File                                                                                                                       | Version | SHA256                                                             |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------ |
+| Windows (x64) | [`WebPeek.Setup.0.1.0.exe`](https://github.com/boobaGreen/webpeek-desktop/releases/download/0.1.0/WebPeek.Setup.0.1.0.exe) | 0.1.0   | `C5C797D0B9C86D626035831EE12D4885733486BE2C5627C585A72322EB99FB0F` |
 
 > Tip: right-click the link above and choose **Save link as…** if the download does not start automatically.
 >
-> Verify integrity by running `Get-FileHash -Algorithm SHA256 .\AWebIF.Setup.0.1.0.exe` (Windows PowerShell) and matching the checksum shown in the table.
+> Verify integrity by running `Get-FileHash -Algorithm SHA256 .\WebPeek.Setup.0.1.0.exe` (Windows PowerShell) and matching the checksum shown in the table.
 
 macOS `.dmg` and Linux `.AppImage` / `.deb` images will be added here as soon as they are built. For now, only the Windows installer is available.
 
-## What’s inside
+## What's inside
 
 - Native GIF ↔ WEBP conversions powered by the high-performance engine
 - Batch automation, custom naming patterns, transparency handling, and all PRO features showcased in the web demo
@@ -25,9 +25,9 @@ macOS `.dmg` and Linux `.AppImage` / `.deb` images will be added here as soon as
 
 1. Download the installer for your OS.
 2. Run it and follow the on-screen instructions.
-3. Launch Awebif Desktop and start converting.
+3. Launch WebPeek Desktop and start converting.
 
-Need help or want to report an issue? Open a ticket in this repo or reach us at support@awebif.com.
+Need help or want to report an issue? Open a ticket in this repo or reach us at support@awebif.it.
 
 ---
 
