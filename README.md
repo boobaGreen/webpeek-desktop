@@ -8,11 +8,11 @@ The latest builds are published as [GitHub Release assets](https://github.com/bo
 
 | Platform      | File                                                                                                                       | Version | SHA256                                                             |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------ |
-| Windows (x64) | [`WebPeek.Setup.0.1.0.exe`](https://github.com/boobaGreen/webpeek-desktop/releases/download/0.1.0/WebPeek.Setup.0.1.0.exe) | 0.1.0   | `C5C797D0B9C86D626035831EE12D4885733486BE2C5627C585A72322EB99FB0F` |
+| Windows (x64) | [`WebPeek.Setup.0.1.0.exe`](https://github.com/boobaGreen/webpeek-desktop/releases/download/0.1.0/WebPeek.Setup.0.1.0.exe) | 0.1.0   | `784BDCF1BA9D56D29293D7578A45A3DCBEAB9214288392BBE333BE427F0C6B72` |
 
 > Tip: right-click the link above and choose **Save link as…** if the download does not start automatically.
 >
-> Verify integrity by running `Get-FileHash -Algorithm SHA256 .\WebPeek.Setup.0.1.0.exe` (Windows PowerShell) and matching the checksum shown in the table.
+> Verify integrity by running `Get-FileHash -Algorithm SHA256 .\WebPeek.Setup.0.2.0.exe` (Windows PowerShell) and matching the checksum shown in the table.
 
 macOS `.dmg` and Linux `.AppImage` / `.deb` images will be added here as soon as they are built. For now, only the Windows installer is available.
 
