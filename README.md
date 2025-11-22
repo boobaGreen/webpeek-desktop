@@ -27,7 +27,7 @@ macOS `.dmg` and Linux `.AppImage` / `.deb` images will be added here as soon as
 2. Run it and follow the on-screen instructions.
 3. Launch WebPeek Desktop and start converting.
 
-Need help or want to report an issue? Open a ticket in this repo or reach us at support@awebif.it.
+Need help or want to report an issue? Open a ticket in this repo or reach us at claudiodallara77@gmail.com.
 
 ---
 
