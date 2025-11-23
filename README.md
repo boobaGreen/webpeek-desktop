@@ -8,7 +8,7 @@ The latest builds are published as [GitHub Release assets](https://github.com/bo
 
 | Platform      | File                                                                                                                       | Version | SHA256                                                             |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------ |
-| Windows (x64) | [`WebPeek Setup 0.2.0.exe`](https://github.com/boobaGreen/webpeek-desktop/releases/download/0.2.0/WebPeek%20Setup%200.2.0.exe) | 0.2.0   | `26243B19C1CF8629266F495|E32621D7A7E95595531172218122454384FA6796F` |
+| Windows (x64) | [`WebPeek Setup 0.2.0.exe`](https://github.com/boobaGreen/webpeek-desktop/releases/download/0.2.0/WebPeek%20Setup%200.2.0.exe) | 0.2.0   | `26243B19C1CF8629266F495E32621D7A7E95595531172218122454384FA6796F` |
 
 > Tip: right-click the link above and choose **Save link as…** if the download does not start automatically.
 >
